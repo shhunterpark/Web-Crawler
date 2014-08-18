@@ -1,0 +1,4 @@
+Microsoft Corporation (MSFT)
+Prev Close:44.79;Open:44.91;Bid:45.00 x 300;Ask:45.07 x 100;1y Target Est:47.00;Beta:0.68;Earnings Date:Oct 22 - Oct 27 (Est.);
+Day's Range:44.68 - 45.11;52wk Range:30.95 - 45.71;Volume:26,883,812;Avg Vol (3m):28,613,100;Market Cap:371.70B;P/E (ttm):16.90;EPS (ttm):2.67;Div &amp; Yield:1.12 (2.70%) ;
+https://chart.finance.yahoo.com/t?s=MSFT&amp;lang=en-US&amp;region=US&amp;width=300&amp;height=180
