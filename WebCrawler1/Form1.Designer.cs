@@ -35,20 +35,26 @@
             this.label2 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
             this.label3 = new System.Windows.Forms.Label();
+            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.Column1 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column2 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column3 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Column4 = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
             // textBox1
             // 
             this.textBox1.Location = new System.Drawing.Point(89, 101);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(183, 20);
+            this.textBox1.Size = new System.Drawing.Size(241, 20);
             this.textBox1.TabIndex = 0;
             // 
             // button1
             // 
             this.button1.Location = new System.Drawing.Point(89, 139);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(61, 23);
+            this.button1.Size = new System.Drawing.Size(77, 30);
             this.button1.TabIndex = 1;
             this.button1.Text = "Start";
             this.button1.UseVisualStyleBackColor = true;
@@ -67,7 +73,7 @@
             // 
             this.textBox2.Location = new System.Drawing.Point(89, 57);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(99, 20);
+            this.textBox2.Size = new System.Drawing.Size(152, 20);
             this.textBox2.TabIndex = 3;
             // 
             // label2
@@ -81,9 +87,9 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(211, 54);
+            this.button2.Location = new System.Drawing.Point(260, 54);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(61, 23);
+            this.button2.Size = new System.Drawing.Size(70, 23);
             this.button2.TabIndex = 5;
             this.button2.Text = "Look Up";
             this.button2.UseVisualStyleBackColor = true;
@@ -98,11 +104,45 @@
             this.label3.TabIndex = 6;
             this.label3.Text = "Yahoo Finance";
             // 
+            // dataGridView1
+            // 
+            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Column1,
+            this.Column2,
+            this.Column3,
+            this.Column4});
+            this.dataGridView1.Location = new System.Drawing.Point(89, 190);
+            this.dataGridView1.Name = "dataGridView1";
+            this.dataGridView1.Size = new System.Drawing.Size(443, 260);
+            this.dataGridView1.TabIndex = 7;
+            // 
+            // Column1
+            // 
+            this.Column1.HeaderText = "Column1";
+            this.Column1.Name = "Column1";
+            // 
+            // Column2
+            // 
+            this.Column2.HeaderText = "Column2";
+            this.Column2.Name = "Column2";
+            // 
+            // Column3
+            // 
+            this.Column3.HeaderText = "Column3";
+            this.Column3.Name = "Column3";
+            // 
+            // Column4
+            // 
+            this.Column4.HeaderText = "Column4";
+            this.Column4.Name = "Column4";
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 174);
+            this.ClientSize = new System.Drawing.Size(564, 486);
+            this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.label2);
@@ -112,6 +152,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Form1";
             this.Text = "Web Crawler";
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -126,6 +167,11 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column1;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column2;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column3;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Column4;
     }
 }
 

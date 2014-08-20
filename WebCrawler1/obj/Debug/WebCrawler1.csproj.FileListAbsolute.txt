@@ -10,3 +10,15 @@ E:\Jiacheng Park\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\o
 E:\Jiacheng Park\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.dll
 E:\Jiacheng Park\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.pdb
 E:\Jiacheng Park\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.xml
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.exe.config
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.exe
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.pdb
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.exe
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\WebCrawler1.pdb
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.dll
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.pdb
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\bin\Debug\HtmlAgilityPack.xml
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csprojResolveAssemblyReference.cache
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.Form1.resources
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.Properties.Resources.resources
+C:\Park Zone\Workspace\visual studio 2013\Projects\WebCrawler1\WebCrawler1\obj\Debug\WebCrawler1.csproj.GenerateResource.Cache

@@ -31,11 +31,12 @@ namespace WebCrawler1
             string webPage = sr.ReadToEnd();
             sr.Close();
             resp.Close();
+
             return webPage;
         }
 
         //get WebPage data
-        public static void getWebData(string url)
+        public static string getWebData(string url)
         {
             HtmlWeb web = new HtmlWeb();
             HtmlAgilityPack.HtmlDocument doc = web.Load(url);
@@ -46,11 +47,15 @@ namespace WebCrawler1
             var t2_data = getTable(t2);
             var img = doc.DocumentNode.SelectSingleNode("//div[@id='yfi_summary_chart']//img").GetAttributeValue("src", null);
 
+            string webData = name + '|' + t1_data + '|' + t2_data + '|' + img;
 
-            string webData = name + '\n' + t1_data + '\n' + t2_data + '\n' + img;
+            /***
             StreamWriter sw = new StreamWriter("webdata.txt");
             sw.Write(webData);
             sw.Close();
+            ***/
+
+            return webData;
         }
 
         public static string getTable(HtmlNode table)

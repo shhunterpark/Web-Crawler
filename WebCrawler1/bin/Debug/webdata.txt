@@ -1,4 +1,1 @@
-Microsoft Corporation (MSFT)
-Prev Close:44.79;Open:44.91;Bid:45.00 x 300;Ask:45.07 x 100;1y Target Est:47.00;Beta:0.68;Earnings Date:Oct 22 - Oct 27 (Est.);
-Day's Range:44.68 - 45.11;52wk Range:30.95 - 45.71;Volume:26,883,812;Avg Vol (3m):28,613,100;Market Cap:371.70B;P/E (ttm):16.90;EPS (ttm):2.67;Div &amp; Yield:1.12 (2.70%) ;
-https://chart.finance.yahoo.com/t?s=MSFT&amp;lang=en-US&amp;region=US&amp;width=300&amp;height=180
+Google Inc. (GOOG)|Prev Close:586.86;Open:585.88;Bid:584.05 x 200;Ask:584.85 x 200;1y Target Est:N/A;Beta:1.144;Next Earnings Date:N/A;|Day's Range:582.57 - 586.70;52wk Range:502.80 - 604.83;Volume:1,033,662;Avg Vol (3m):1,618,390;Market Cap:395.34B;P/E (ttm):30.63;EPS (ttm):19.09;Div &amp; Yield:N/A (N/A) ;|https://chart.finance.yahoo.com/t?s=GOOG&amp;lang=en-US&amp;region=US&amp;width=300&amp;height=180
